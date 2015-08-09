@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc
+  Version="1">
+  <TocEntry
+    Title="LOZ_(original)"
+    Link="/Content/Nintendo/HomeConsole/NES/LOZ_(original).htm" />
+  <TocEntry
+    Title="LOZ_theAdventureOfLink"
+    Link="/Content/Nintendo/HomeConsole/NES/LOZ_theAdventureOfLink.htm" />
+  <TocEntry
+    Title="LOZ_aLinkToThePast"
+    Link="/Content/Nintendo/HomeConsole/SNES/LOZ_aLinkToThePast.htm" />
+  <TocEntry
+    Title="LOZ_LinksAwakening"
+    Link="/Content/Nintendo/Portable/GameBoy/LOZ_LinksAwakening.htm" />
+  <TocEntry
+    Title="LOZ_OcarinaOfTime"
+    Link="/Content/Nintendo/HomeConsole/N64/LOZ_OcarinaOfTime.htm" />
+  <TocEntry
+    Title="LOZ_MajorasMask"
+    Link="/Content/Nintendo/HomeConsole/N64/LOZ_MajorasMask.htm" />
+  <TocEntry
+    Title="LOZ_OracleOfAges"
+    Link="/Content/Nintendo/Portable/GameBoy/LOZ_OracleOfAges.htm" />
+  <TocEntry
+    Title="LOZ_OracleOfSeasons"
+    Link="/Content/Nintendo/Portable/GameBoy/LOZ_OracleOfSeasons.htm" />
+  <TocEntry
+    Title="LOZ_aLinkToThePast-FourSwords"
+    Link="/Content/Nintendo/Portable/GBA/LOZ_aLinkToThePast-FourSwords.htm" />
+  <TocEntry
+    Title="LOZ_theWindWaker"
+    Link="/Content/Nintendo/HomeConsole/GameCube/LOZ_theWindWaker.htm" />
+  <TocEntry
+    Title="LOZ_theMinishCap"
+    Link="/Content/Nintendo/Portable/GBA/LOZ_theMinishCap.htm" />
+  <TocEntry
+    Title="LOZ_FourSwordsAdventures"
+    Link="/Content/Nintendo/HomeConsole/GameCube/LOZ_FourSwordsAdventures.htm" />
+  <TocEntry
+    Title="LOZ_theTwilightPrincess"
+    Link="/Content/Nintendo/HomeConsole/Wii/LOZ_theTwilightPrincess.htm" />
+  <TocEntry
+    Title="LOZ_thePhantomHourglass"
+    Link="/Content/Nintendo/Portable/NDS/LOZ_thePhantomHourglass.htm" />
+  <TocEntry
+    Title="LOZ_SpiritTracks"
+    Link="/Content/Nintendo/Portable/NDS/LOZ_SpiritTracks.htm" />
+  <TocEntry
+    Title="LOZ_SkywardSword"
+    Link="/Content/Nintendo/HomeConsole/Wii/LOZ_SkywardSword.htm" />
+  <TocEntry
+    Title="LOZ_OcarinaOfTime3D"
+    Link="/Content/Nintendo/Portable/3DS/LOZ_OcarinaOfTime3D.htm" />
+  <TocEntry
+    Title="LOZ_aLinkBetweenWorlds"
+    Link="/Content/Nintendo/Portable/3DS/LOZ_aLinkBetweenWorlds.htm" />
+  <TocEntry
+    Title="LOZ_HyruleWarriors"
+    Link="/Content/Nintendo/HomeConsole/WiiU/LOZ_HyruleWarriors.htm" />
+  <TocEntry
+    Title="Majoras Mask 3D"
+    Link="/Content/Nintendo/Portable/3DS/LOZ_MajorasMask3D.htm" />
+</CatapultToc>

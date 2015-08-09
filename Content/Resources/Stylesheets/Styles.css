@@ -1,0 +1,322 @@
+/*<meta />*/
+
+body
+{
+	font-family: Arial;
+}
+
+h1
+{
+	font-weight: bold;
+	font-size: 24.0pt;
+}
+
+h2
+{
+	font-weight: bold;
+	font-size: 18.0pt;
+}
+
+h3
+{
+	font-weight: bold;
+	font-size: 14.0pt;
+}
+
+h4
+{
+	font-weight: bold;
+	font-size: 12.0pt;
+}
+
+h5
+{
+	font-weight: bold;
+	font-size: 10.0pt;
+}
+
+h6
+{
+	font-weight: bold;
+	font-size: 8.0pt;
+}
+
+p
+{
+	font-size: 12.0pt;
+	margin-top: 0pt;
+	margin-bottom: 0pt;
+}
+
+ol,
+ul
+{
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
+
+img
+{
+	border: none;
+}
+
+a.Popup
+{
+	
+}
+
+MadCap|expandingHead
+{
+	font-style: italic;
+	font-weight: normal;
+	cursor: hand;
+	text-decoration: none;
+	color: #006600;
+}
+
+MadCap|expandingBody
+{
+	color: #777777;
+	font-style: italic;
+}
+
+MadCap|dropDownHotspot
+{
+	cursor: hand;
+	font-style: italic;
+	text-decoration: none;
+	color: #006600;
+}
+
+div.aaa
+{
+	color: #008000;
+}
+
+MadCap|conceptLink.Home_Console
+{
+	mc-label: 'See Home Console Specific Games';
+	mc-image: none;
+	color: #b8860b;
+	mc-image-alt-text: Concept Link;
+}
+
+div.Main
+{
+	font-family: 'Chaparral Pro Light';
+	background-color: #696969;
+	color: #ffffff;
+	border: groove 13px #daa520;
+	margin-left: 15px;
+	margin-right: 15px;
+	padding: 15px;
+	height: inherit;
+	width: 800px;
+}
+
+body.Main
+{
+	font-family: Arial;
+	background-color: #f0e68c;
+}
+
+img.OfficialLogoCentered
+{
+	border: none;
+	clear: both;
+}
+
+div.Bug	/*Bug Reminders*/
+{
+	margin: 10px;
+	border-radius: 10px;
+	background-color: #ff0000;
+	padding: 10px;
+	background-image: url('../Images/Nintendo/Bug.png');
+	background-repeat: no-repeat;
+	mc-auto-number-format: '{color white}{b}Bug:{/b}{/color} ';
+	mc-auto-number-position: float-left;
+	width: auto;
+	border: solid 2px #567351;
+}
+
+div.Why
+{
+	margin: 10px;
+	border-radius: 10px;
+	padding: 10px;
+	background-image: url('../../../Images/Bug.png');
+	background-repeat: no-repeat;
+	mc-auto-number-position: float-left;
+	width: auto;
+	border: solid 2px #567351;
+	background-color: #ffff00;
+	border-color: #8a2be2;
+	mc-auto-number-format: '{color gray}{b}Why?:{/b}{/color} ';
+}
+
+p.allimages img
+{
+	font-size: 12.0pt;
+	margin-top: 0pt;
+	margin-bottom: 0pt;
+	border: solid 6px #daa520;
+	padding: 10px;
+	margin: 10px;
+	clear: right;
+}
+
+img.Thumb
+{
+	border: none;
+	mc-thumbnail: popup;
+}
+
+img.fitWindow
+{
+	border: none;
+}
+
+p.images
+{
+	font-size: 12.0pt;
+	margin-bottom: 0pt;
+	background-color: #eee8aa;
+	margin-top: 10pt;
+	padding: 10px;
+}
+
+img.tableImage
+{
+	border: none;
+	mc-thumbnail: hover;
+	mc-thumbnail-max-height: 100px;
+}
+
+div.Main img
+{
+	float: left;
+	clear: left;
+}
+
+img.logoThumb
+{
+	border: none;
+	mc-thumbnail-max-height: auto;
+	mc-thumbnail: popup;
+	mc-thumbnail-max-width: 300px;
+}
+
+div.GamePage
+{
+	border-bottom: solid 1px #9acd32;
+	padding-bottom: 10px;
+	margin-top: 20px;
+	width: 700px;
+	max-width: 700px;
+}
+
+img.GamePage	/*500 px wide*/
+{
+	border: none;
+	width: 500px;
+	height: auto;
+}
+
+MadCap|dropDownHead.h3GamePage
+{
+	font-weight: bold;
+	font-size: 14.0pt;
+}
+
+MadCap|dropDownHotspot.h3GamePage
+{
+	cursor: hand;
+	text-decoration: none;
+	color: #000000;
+	font-style: normal;
+}
+
+MadCap|expandingHead.H1GamePage
+{
+	font-weight: bold;
+	font-size: 18.0pt;
+	cursor: hand;
+	text-decoration: none;
+	color: #000000;
+	font-style: normal;
+}
+
+MadCap|dropDownHead.h2GamePage
+{
+	font-weight: bold;
+	font-size: 18.0pt;
+}
+
+MadCap|toggler.H2GamePage
+{
+	font-weight: bold;
+	font-size: 18.0pt;
+	color: #000000;
+	font-style: normal;
+}
+
+img.Console400pxSnippet
+{
+	border: none;
+	width: 400px;
+	height: auto;
+}
+
+img.GamePageScreen
+{
+	border: none;
+	mc-thumbnail: popup;
+	mc-thumbnail-max-height: auto;
+	mc-thumbnail-max-width: 400px;
+}
+
+img.GamePageMedia
+{
+	border: none;
+	mc-thumbnail: popup;
+	mc-thumbnail-max-height: auto;
+	mc-thumbnail-max-width: 400px;
+}
+
+img.GamePageBox
+{
+	border: none;
+	mc-thumbnail: popup;
+	mc-thumbnail-max-width: 255px;
+	mc-thumbnail-max-height: auto;
+}
+
+MadCap|conceptLink.home
+{
+	color: #b8860b;
+	mc-image: none;
+	mc-image-alt-text: Concept Link;
+}
+
+MadCap|keywordLink.home
+{
+	color: #b8860b;
+	mc-image-alt-text: Keyword Link;
+	mc-image: none;
+}
+
+MadCap|relatedTopics.home
+{
+	mc-label: 'Original Games (related)';
+	color: #b8860b;
+	mc-image: none;
+}
+
+div.homeSubDiv
+{
+	float: left;
+	background-color: #f5f5f5;
+	width: 350px;
+}
+

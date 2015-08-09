@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultTarget
+  Version="2"
+  Comment="New Target"
+  Type="WebHelp2"
+  Destinations=""
+  GlossaryTermConversion="marked"
+  OutputFile="Zelda"
+  Skin="/Project/Skins/ZeldaTopNav.flskn"
+  ConditionTagExpression="exclude[Show-Hide.Red] "
+  MenuSkin="/Project/Skins/Menu.flskn"
+  TopicToolbarSkin="/Project/Skins/Toolbar.flskn"
+  SearchBarSkin="/Project/Skins/SearchBar.flskn"
+  SearchResultsSkin="/Project/Skins/SearchResults.flskn"
+  MasterPage="/Content/Resources/MשדאקרPשעקPage.flmsp">
+  <PrintedOutput
+    CollapseMargins="true"
+    GenerateTOCProxy="true"
+    GenerateIndexProxy="true"
+    GenerateGlossaryProxy="true" />
+</CatapultTarget>
