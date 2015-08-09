@@ -1,3 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<CatapultProject Version="1" MasterStylesheet="/Content/Resources/Stylesheets/Styles.css" MasterPageLayout="/Content/Resources/PageLayouts/Default.flpgl" xml:lang="en-us" SourceControlBound="false" Comment="This template contains a minimum number of content and project files, including a single topic. It is the best choice for those who want to begin with a skeleton project.">
+<CatapultProject Version="1" MasterStylesheet="/Content/Resources/Stylesheets/Styles.css" MasterPageLayout="/Content/Resources/PageLayouts/Default.flpgl" xml:lang="en-us" SourceControlBound="true" Comment="This template contains a minimum number of content and project files, including a single topic. It is the best choice for those who want to begin with a skeleton project." SourceControlDatabase="C:\GIT\!SAVE\VideoGameCollection\.git" SourceControlProviderType="Git" ProjectGuid="93549142-d582-4fbe-9431-6437aec1fcc9" SourceControlDatabaseRoot="C:\GIT\!SAVE\VideoGameCollection">
+    <Synchronize>
+        <Mapping ProjectPath="Content/Resources/Images/__Banters10.svg" ExternalPath="file:///C:/Users/Harkins/Documents/Ai/Banters/__Banters10.svg" />
+    </Synchronize>
 </CatapultProject>

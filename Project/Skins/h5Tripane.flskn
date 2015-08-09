@@ -35,6 +35,12 @@
             Name="Color">#ffffff</Property>
           <Property
             Name="BackgroundGradient">vertical #6b8e23 #6b8e23</Property>
+          <Property
+            Name="BorderTopLeftRadius">0px</Property>
+          <Property
+            Name="BorderTopRightRadius">0px</Property>
+          <Property
+            Name="BorderRight">solid 0px #494949</Property>
         </Properties>
       </Style>
       <Style
@@ -42,6 +48,18 @@
         <Properties>
           <Property
             Name="BackgroundGradient">vertical #000000 #555555</Property>
+          <Property
+            Name="BorderTopRightRadius">0px</Property>
+          <Property
+            Name="BorderTopLeftRadius">0px</Property>
+          <Property
+            Name="BorderBottom">none 0px #ffffff</Property>
+          <Property
+            Name="BorderLeft">solid 1px #ffffff</Property>
+          <Property
+            Name="BorderTop">solid 1px #ffffff</Property>
+          <Property
+            Name="BorderRight">solid 1px #ffffff</Property>
         </Properties>
       </Style>
       <Style
@@ -55,7 +73,7 @@
         Name="Topic Container">
         <Properties>
           <Property
-            Name="BackgroundColor">#000000</Property>
+            Name="BackgroundColor">#ffffff</Property>
         </Properties>
       </Style>
       <Style
@@ -71,6 +89,10 @@
             Name="BorderRight">solid 1px #363636</Property>
           <Property
             Name="BorderTop">solid 1px #363636</Property>
+          <Property
+            Name="Color">#363636</Property>
+          <Property
+            Name="FontSize">17px</Property>
         </Properties>
       </Style>
       <Style
@@ -116,6 +138,72 @@
             Name="BorderTopRightRadius">0px</Property>
           <Property
             Name="BorderBottomRightRadius">0px</Property>
+          <Property
+            Name="BorderTopLeftRadius">0px</Property>
+          <Property
+            Name="BorderBottomLeftRadius">0px</Property>
+        </Properties>
+      </Style>
+      <Style
+        Name="Header">
+        <Properties>
+          <Property
+            Name="Height">72px</Property>
+        </Properties>
+      </Style>
+      <Style
+        Name="ToolbarItem">
+        <Properties>
+          <Property
+            Name="BorderTopLeftRadius">0px</Property>
+          <Property
+            Name="BorderTopRightRadius">0px</Property>
+          <Property
+            Name="BorderBottomRightRadius">0px</Property>
+          <Property
+            Name="BorderBottomLeftRadius">0px</Property>
+          <Property
+            Name="BorderTop">solid 1px #000000</Property>
+          <Property
+            Name="BorderRight">solid 1px #000000</Property>
+          <Property
+            Name="BorderBottom">solid 1px #000000</Property>
+          <Property
+            Name="BorderLeft">solid 1px #000000</Property>
+        </Properties>
+        <Classes>
+          <StyleClass
+            Name="TopicRatingsEmpty">
+            <Properties>
+              <Property
+                Name="BorderRight">none 0px #000000</Property>
+              <Property
+                Name="BorderTop">solid 0px #000000</Property>
+            </Properties>
+          </StyleClass>
+          <StyleClass
+            Name="TopicRatings">
+            <Properties>
+              <Property
+                Name="BorderTop">solid 0px #000000</Property>
+            </Properties>
+          </StyleClass>
+        </Classes>
+      </Style>
+      <Style
+        Name="Navigation Panel Hide Arrow">
+        <Properties>
+          <Property
+            Name="Color">#ffffff</Property>
+        </Properties>
+      </Style>
+      <Style
+        Name="Navigation Tab">
+        <Properties>
+          <Property
+            Name="FontSize">14px</Property>
+          <Property
+            Name="LineHeight">27px</Property>
         </Properties>
       </Style>
     </Styles>
