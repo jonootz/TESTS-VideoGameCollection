@@ -116,8 +116,9 @@ div.Main
 
 body.Main
 {
-	font-family: Arial;
-	background-color: #f0e68c;
+	background-color: #4169e1;
+	font-family: 'Myriad Pro';
+	color: #ffffff;
 }
 
 img.OfficialLogoCentered

@@ -10,14 +10,14 @@
     <Map Name="ZELDANEW7" Link="/Content/Nintendo/Portable/GameBoy/LOZ_OracleOfSeasons.htm" />
     <Map Name="ZELDANEW8" Link="/Content/Nintendo/Portable/GameBoy/LOZ_OracleOfAges.htm" />
     <Map Name="ZELDANEW9" Link="/Content/Nintendo/Portable/GameBoy/LOZ_LinksAwakening.htm" />
-    <Map Name="ZELDANEW10" Link="/Content/Nintendo/HomeConsole/WiiU/LOZ_HyruleWarriors.htm" />
-    <Map Name="ZELDANEW11" Link="/Content/Nintendo/HomeConsole/Wii/LOZ_theTwilightPrincess.htm" />
-    <Map Name="ZELDANEW12" Link="/Content/Nintendo/HomeConsole/Wii/LOZ_SkywardSword.htm" />
-    <Map Name="ZELDANEW13" Link="/Content/Nintendo/HomeConsole/GameCube/LOZ_theWindWaker.htm" />
-    <Map Name="ZELDANEW14" Link="/Content/Nintendo/HomeConsole/GameCube/LOZ_FourSwordsAdventures.htm" />
-    <Map Name="ZELDANEW15" Link="/Content/Nintendo/HomeConsole/N64/LOZ_OcarinaOfTime.htm" />
-    <Map Name="ZELDANEW16" Link="/Content/Nintendo/HomeConsole/N64/LOZ_MajorasMask.htm" />
-    <Map Name="ZELDANEW17" Link="/Content/Nintendo/HomeConsole/SNES/LOZ_aLinkToThePast.htm" />
-    <Map Name="ZELDANEW18" Link="/Content/Nintendo/HomeConsole/NES/LOZ_theAdventureOfLink.htm" />
-    <Map Name="ZELDANEW19" Link="/Content/Nintendo/HomeConsole/NES/LOZ_(original).htm" />
+    <Map Name="ZELDANEW10" Link="/Content/Nintendo/Home Console/WiiU/LOZ_HyruleWarriors.htm" />
+    <Map Name="ZELDANEW11" Link="/Content/Nintendo/Home Console/Wii/LOZ_theTwilightPrincess.htm" />
+    <Map Name="ZELDANEW12" Link="/Content/Nintendo/Home Console/Wii/LOZ_SkywardSword.htm" />
+    <Map Name="ZELDANEW13" Link="/Content/Nintendo/Home Console/GameCube/LOZ_theWindWaker.htm" />
+    <Map Name="ZELDANEW14" Link="/Content/Nintendo/Home Console/GameCube/LOZ_FourSwordsAdventures.htm" />
+    <Map Name="ZELDANEW15" Link="/Content/Nintendo/Home Console/N64/LOZ_OcarinaOfTime.htm" />
+    <Map Name="ZELDANEW16" Link="/Content/Nintendo/Home Console/N64/LOZ_MajorasMask.htm" />
+    <Map Name="ZELDANEW17" Link="/Content/Nintendo/Home Console/SNES/LOZ_aLinkToThePast.htm" />
+    <Map Name="ZELDANEW18" Link="/Content/Nintendo/Home Console/NES/LOZ_theAdventureOfLink.htm" />
+    <Map Name="ZELDANEW19" Link="/Content/Nintendo/Home Console/NES/LOZ_(original).htm" />
 </CatapultAliasFile>
